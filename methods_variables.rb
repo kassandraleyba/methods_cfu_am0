@@ -2,11 +2,39 @@
 # PART 1
 
 # Define a variable that stores a string
+def greet_a_friend
+  "Hello, friend!"
+end
+
+puts greet_a_friend
 
 #  call upcase on the variable, print it out
+def greet_a_friend
+  "Hello, friend!".upcase
+end
+
+puts greet_a_friend
+
 #  call downcase on the variable, print it out
+def greet_a_friend
+  "Hello, friend!".downcase
+end
+
+puts greet_a_friend
+
 #  call reverse on the variable, print it out
+def greet_a_friend
+  "Hello, friend!".reverse
+end
+
+puts greet_a_friend
+
 #  call length on the variable, print it out
+def greet_a_friend
+  "Hello, friend!".length
+end
+
+puts greet_a_friend
 
 
 
