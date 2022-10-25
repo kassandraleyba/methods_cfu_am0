@@ -70,8 +70,7 @@ puts user_name.scrub
 # an explanation.
 
 # I researched the '!' on google first. I learned that it's considered dangerous! When a method ends with a 
-# bang (!), it permanently modifies the receiver and returns the value boolean. I like to live life dangerously,
-# so I did more research with the string below in my terminal. It doesn't matter how many times you type 
+# bang (!), it permanently modifies the receiver and returns the value boolean. I did more research with the string below in my terminal. It doesn't matter how many times you type 
 # "puts string" below the bang method, it will keep returning the "puts string.capitalize!" value. Interesting. 
 # Multiple sites have advised to use with caution. Nowadays, programmers don't usually use bang methods, but they will still 
 # come up elsewhere, so it's important to know what they are and how they work.
