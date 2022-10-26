@@ -27,7 +27,7 @@ puts greet_a_person ("Mandy")
 
 # How many arguments did you pass your method?
 # I passed one argument in my method: "Mandy"
-# The paramteter for my method definition is name.
+
 
 # What data type was your argument(s)?
 #The data type of my argument was a string.
